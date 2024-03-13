@@ -34703,5 +34703,30 @@
     "name": "T-rex Trump",
     "emoji": "\ud83e\udd96",
     "is_first_discovery": false
+  },
+  {
+    "name": "Tea Tiki",
+    "emoji": "\ud83c\udf75\ud83d\uddff",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Brony",
+    "emoji": "\ud83d\udc34",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Pork Samurai",
+    "emoji": "\ud83d\udc37",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Chromolume In Wonderland",
+    "emoji": "\ud83c\udfad",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Swanfuel",
+    "emoji": "\ud83e\udda2",
+    "is_first_discovery": true
   }
 ]
