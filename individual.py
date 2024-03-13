@@ -20,7 +20,7 @@ async def main():
                                                 element)
                     print(f"Result: {result}")
                     print(f"Total: {len(game.discoveries)}")
-                    file = open("discoveries_parents.txt", "a")
+                    file = open("discoveries.txt", "a")
                     file.write(
                         f"\n{game.discoveries[i]}+" + name + f"={result}"
                     )

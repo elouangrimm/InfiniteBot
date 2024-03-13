@@ -12,7 +12,7 @@ async def main():
             if i < len(game.discoveries) - 1 and j < len(game.discoveries) - 1:
                 result = await game.pair(game.discoveries[i], game.discoveries[j])
                 print(f"{result} = {game.discoveries[i]} + {game.discoveries[j]}")
-                file = open("discoveries_parents.txt", "a")
+                file = open("discoveries.txt", "a")
                 file.write(f"\n{game.discoveries[i]}+{game.discoveries[j]}={result}")
 
 asyncio.run(main()) 
