@@ -7,4 +7,4 @@ Multiple bots for Infinite Craft!
 - Run custom.py to merge two custom items.
 
 ## Credit
-Carson Bates: Most Code, Neal Agarwal: Infinite Craft
+Carson Bates: Most Code & Ideas, Elouan Grimm: Some Code & Ideas,Neal Agarwal: Infinite Craft
