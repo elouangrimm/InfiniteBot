@@ -3,13 +3,9 @@ import time
 from infinitecraft import InfiniteCraft
 import infinitecraft
 
-inputelement = input("Element: ")
-
 async def main():
     async with InfiniteCraft() as game:
-        if not(inputelement in game.discoveries):
-            print("You don't have that yet!")
-            quit()
+        inputelement = input("Element: ")
         while True:
             for i in range(len(game.discoveries) - 1):
                 await asyncio.sleep(0.2)
@@ -18,8 +14,8 @@ async def main():
                         f"Pairing elements: {game.discoveries[i]} and " + inputelement
                     )
                     element = infinitecraft.Element()
-                    element.name = name
-                    result = await game.pair(game.discoveries[i],inputelement)
+                    element.name = inputelement
+                    result = await game.pair(game.discoveries[i],element)
                     print(f"Result: {result}")
                     print(f"Total: {len(game.discoveries)}")
                     file = open("discoveries.txt", "a")
@@ -27,4 +23,5 @@ async def main():
                         f"\n{game.discoveries[i]}+" + inputelement + f"={result}"
                     )
 
-asyncio.run(main())
+if __name__ == "__main__":
+    asyncio.run(main())
