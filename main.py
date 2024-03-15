@@ -1,7 +1,7 @@
-import craft
-import individual
-import custom
 import asyncio
+import craft
+import custom
+import individual
 
 print("""------------------------ INFINITEBOT ------------------------
 Created by Carson Bates and Elouan Grimm
@@ -15,32 +15,62 @@ option = input("""Pick an option:
 Option (1, 2, 3, Quit): """)
 
 if option == "1":
-    try:
-        print("""
+  try:
+    print("""
 
 ------------------------ Starting Random Run ------------------------
             """)
-        asyncio.run(craft.main())
-    except:
-        exit()
+    asyncio.run(craft.main())
+  except asyncio.TimeoutError as ex:
+    print("There was a timeout error:" + str(ex) +
+          "This is normal. The file should run again.")
+    asyncio.run(craft.main())
+  except KeyboardInterrupt:
+    print("""
+
+    ------------------------ Quiting ------------------------
+              """)
+    exit()
 
 if option == "2":
+  try:
     print("""
 
------------------------- Starting Individual ------------------------
-          """)
-    asyncio.run(individual.main())
+  ------------------------ Starting Individual ------------------------
+            """)
+    asyncio.run(craft.main())
+  except asyncio.TimeoutError as ex:
+    print("There was a timeout error:" + str(ex) +
+          "This is normal. The file should run again.")
+    asyncio.run(craft.main())
+  except KeyboardInterrupt:
+    print("""
+
+    ------------------------ Quiting ------------------------
+              """)
+    exit()
 
 if option == "3":
+  try:
     print("""
 
------------------------- Starting Custom ------------------------
-          """)
-    asyncio.run(custom.main())
+  ------------------------ Starting Custom ------------------------
+            """)
+    asyncio.run(craft.main())
+  except asyncio.TimeoutError as ex:
+    print("There was a timeout error:" + str(ex) +
+          "This is normal. The file should run again.")
+    asyncio.run(craft.main())
+  except KeyboardInterrupt:
+    print("""
+
+    ------------------------ Quiting ------------------------
+              """)
+    exit()
 
 if option == "Quit":
-    print("""
+  print("""
 
 ------------------------ Quiting ------------------------
           """)
-    exit()
+  exit()
