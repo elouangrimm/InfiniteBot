@@ -117473,5 +117473,2920 @@
     "name": "Peking Duck Poutine",
     "emoji": "\ud83c\udf5f",
     "is_first_discovery": true
+  },
+  {
+    "name": "Foggy Moogle",
+    "emoji": "\ud83c\udf2b\ufe0f",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Dusty Pigsty",
+    "emoji": "\ud83d\udc37\ud83c\udfda\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Cryptospy Optimus",
+    "emoji": "\ud83e\udd16",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Art Frosty",
+    "emoji": "\ud83c\udfa8\u2744\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "CryptoRatatouille",
+    "emoji": "\ud83d\udc00\ud83d\udcb0\ud83c\udf72",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Kung Fu Panda 3: The Art of the Steal",
+    "emoji": "\ud83d\udc3c",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Mt. Goo-itchy",
+    "emoji": "\ud83c\udfd4\ufe0f",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Camelcryptosnowbird",
+    "emoji": "\ud83d\udc2a",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Steam Dog",
+    "emoji": "\ud83d\udc3e",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Ice Skating Trump",
+    "emoji": "\u26f8\ufe0f\ud83d\udc68\u200d",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Crypto John Carter",
+    "emoji": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Casper The Friendly Yeti",
+    "emoji": "\ud83c\udfd4\ufe0f\ud83d\udc7b",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Mind",
+    "emoji": "\ud83e\udde0",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Tiki Catasaurus",
+    "emoji": "\ud83e\udd96",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Robocorn 11",
+    "emoji": "\ud83d\udc2e",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Pink Chocolate Steam Powered Biscuit Mummy",
+    "emoji": "\ud83c\udf6b",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Steampunk Daffy Goblin Karate Robot",
+    "emoji": "\ud83e\udd16",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Cryptoporkchop Gundam",
+    "emoji": "\ud83e\udd16",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Crypto Swampcare Mecha-mosaic-e",
+    "emoji": "\ud83e\udd16",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Awesome Time",
+    "emoji": "\ud83d\udc4d",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Cryptosubmarine Golem",
+    "emoji": "\ud83e\udd16",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Black Emperor's New Reef",
+    "emoji": "\ud83d\udc20",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Tank Fries",
+    "emoji": "\ud83c\udf5f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Yodafruit",
+    "emoji": "\ud83c\udf4d",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Auntie",
+    "emoji": "\ud83d\udc75",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Urnbee",
+    "emoji": "\ud83e\udd14",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Ketchup Man",
+    "emoji": "\ud83c\udf45",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Captain Beefheart and the Spiders from Mars",
+    "emoji": "\ud83c\udfb8",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Cobra Pizza Quetzalcoatl",
+    "emoji": "\ud83c\udf55",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Sailor Kong",
+    "emoji": "\u26f5\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "The Ugly Whirlpool",
+    "emoji": "\ud83c\udf2a\ufe0f",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Amazon Redshift",
+    "emoji": "\ud83d\ude80",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Casper The Friendly Cryptozombie",
+    "emoji": "\ud83d\udc7b",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Frosty Panda Gryphon",
+    "emoji": "\ud83d\udc3c",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Bubblegum Samurai 2: Salaryman",
+    "emoji": "\ud83c\udf6c\ud83d\udc68\u200d\ud83d\udcbc",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Cryptoriddle",
+    "emoji": "\ud83d\udd2e",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Cobra Cryptophoenix",
+    "emoji": "\ud83d\udc0d\ud83d\udd12\ud83d\udd25",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Candy Cannon",
+    "emoji": "\ud83c\udf6d",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Kingdom Hearts 358",
+    "emoji": "\ud83d\udddd\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Robo-trollvis",
+    "emoji": "\ud83e\udd16",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Goblinzilla Bogglebot",
+    "emoji": "\ud83e\udd16",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Dancer",
+    "emoji": "\ud83d\udc83",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Duckpiercer Pizza Steam Gundam",
+    "emoji": "\ud83c\udf55\ud83e\udd86\ud83d\ude80",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Dirty Dragonzord Martini",
+    "emoji": "\ud83c\udf78",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Crypto Fortress",
+    "emoji": "\ud83c\udff0\ud83d\udcb0",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Crystal Riverhydra",
+    "emoji": "\ud83d\udc09",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Methcobra",
+    "emoji": "\ud83d\udc0d",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Steampunk Arwen De Milo",
+    "emoji": "\ud83e\udd16",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Yogi Frog",
+    "emoji": "\ud83d\udc38\ud83e\uddd8\u200d\u2642",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Steampunk Cryptopixar",
+    "emoji": "\ud83e\udd16",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Bingo Splat",
+    "emoji": "\ud83c\udfaf\ud83d\udca6",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Pewds",
+    "emoji": "\ud83d\udc51",
+    "is_first_discovery": false
+  },
+  {
+    "name": "The Ugly Dodgling Prime Party",
+    "emoji": "\ud83e\udd86",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Sanji",
+    "emoji": "\ud83c\udf63",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Pink Pussycat",
+    "emoji": "\ud83d\udc31\ud83d\udc95",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Cobra Ramen",
+    "emoji": "\ud83c\udf5c\ud83d\udc0d",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Peacekeeper Tea",
+    "emoji": "\u2615",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Google Insure",
+    "emoji": "\ud83d\udd0d",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Googlecraftia",
+    "emoji": "\ud83c\udf0e\ud83d\udd0d\ud83c\udfd7\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Werewolf of Oz",
+    "emoji": "\ud83d\udc3a\ud83e\uddd9\u200d\u2642",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Steampunk Troll",
+    "emoji": "\ud83e\udd16",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Cryptobulma",
+    "emoji": "\ud83d\udcb0",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Clockwork Pinkwash",
+    "emoji": "\u23f0\ud83e\uddfc",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Bacon Princess",
+    "emoji": "\ud83d\udc78",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Pink Crash Gundam",
+    "emoji": "\ud83d\udc96\ud83e\udd16",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Dui Chocolate",
+    "emoji": "\ud83c\udf6b",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Cthulhu Pinky Bogart",
+    "emoji": "\ud83e\udd91",
+    "is_first_discovery": true
+  },
+  {
+    "name": "The Sun",
+    "emoji": "\u2600\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Bog Tornahydra",
+    "emoji": "\ud83d\udc32\ud83c\udf3f\ud83c\udf0a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Angel Zombie",
+    "emoji": "\ud83d\udc7c\ud83e\udddf\u200d\u2642\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Honey Pancake",
+    "emoji": "\ud83c\udf6f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Cryptogogan",
+    "emoji": "\ud83e\udd14",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Pink Marshmallow Man",
+    "emoji": "\ud83c\udf65\ud83d\udc68\u200d",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Sumo Sushi",
+    "emoji": "\ud83c\udf63",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Zombie Bee",
+    "emoji": "\ud83d\udc1d",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Alaska",
+    "emoji": "\ud83c\udf32",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Blowfish Of The Sea Of Mars",
+    "emoji": "\ud83d\udc21",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Chesscake Trumpzilla Uchiha",
+    "emoji": "\ud83c\udf70\ud83e\udd96\ud83d\udd25",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Shaolin Monk",
+    "emoji": "\ud83d\udc51",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Givanka Trump Stardust Rex",
+    "emoji": "\ud83e\udd96",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Chow Tornadonald",
+    "emoji": "\ud83c\udf2a\ufe0f",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Cherry Blossom Kongthulhu",
+    "emoji": "\ud83c\udf38",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Blue",
+    "emoji": "\ud83d\udc99",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Enorgasm 2025",
+    "emoji": "\ud83e\udd14",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Knuckles",
+    "emoji": "\ud83d\udc4a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Crypto Sushi Kongthulhu",
+    "emoji": "\ud83c\udf63\ud83e\udd8d\ud83d\udc19",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Cobra Fiat",
+    "emoji": "\ud83d\udc0d\ud83d\ude97",
+    "is_first_discovery": true
+  },
+  {
+    "name": "0live Kongthulhu",
+    "emoji": "\ud83e\udd91",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Pink Snowwitch",
+    "emoji": "\u2744\ufe0f",
+    "is_first_discovery": true
+  },
+  {
+    "name": "The Black Sheep",
+    "emoji": "\ud83d\udc11",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Cryptobunny Train Wreck",
+    "emoji": "\ud83d\ude82",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Flying Moogle",
+    "emoji": "\ud83d\udc3e\u2728",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Steam Rabbit",
+    "emoji": "\ud83d\ude82\ud83d\udc07",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Gump Simpson",
+    "emoji": "\ud83e\udd14",
+    "is_first_discovery": true
+  },
+  {
+    "name": "The Desolation Of Cavepunk Sexting",
+    "emoji": "\ud83d\udd25",
+    "is_first_discovery": true
+  },
+  {
+    "name": "The Ugly Mecha",
+    "emoji": "\ud83e\udd16",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Porkchopzilla",
+    "emoji": "\ud83d\udc37",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Crypto Castle",
+    "emoji": "\ud83c\udff0",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Crypto Frankenbear",
+    "emoji": "\ud83e\udddf\u200d\u2642\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Ichabod Crane",
+    "emoji": "\ud83d\udc7b",
+    "is_first_discovery": false
+  },
+  {
+    "name": "The Wizard Of Clockwork Murderporn",
+    "emoji": "\ud83e\uddd9\u200d\u2642\ufe0f",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Iceberg Jonah",
+    "emoji": "\ud83e\uddca",
+    "is_first_discovery": false
+  },
+  {
+    "name": "The Four Muskete",
+    "emoji": "\ud83e\udd3a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Pineapple News Network",
+    "emoji": "\ud83c\udf4d",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Camel Lab",
+    "emoji": "\ud83d\udc2a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Pink Piranha",
+    "emoji": "\ud83d\udc1f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Steam Troll",
+    "emoji": "\ud83e\uddda\u200d\u2640\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Fire Tardis",
+    "emoji": "\ud83d\udd25",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Pink Freedom",
+    "emoji": "\ud83d\udc97\ud83d\udd4a\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Cactus Nacho Excalibur",
+    "emoji": "\ud83c\udf35\ud83e\uddc0\u2694\ufe0f",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Dustin Lemons",
+    "emoji": "\ud83c\udf4b",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Porkipus Rex Christ",
+    "emoji": "\ud83e\udd14",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Duck-duck-goose-goose-goose",
+    "emoji": "\ud83e\udd86\ud83e\udd86\ud83e\udd86",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Sharktopus Burger",
+    "emoji": "\ud83c\udf54",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Robododgers",
+    "emoji": "\ud83e\udd16",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Steampunk Snowbot",
+    "emoji": "\ud83e\udd16",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Gatorbot Tea",
+    "emoji": "\ud83d\udc0a\ud83e\udd16\ud83c\udf75",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Baby Foot",
+    "emoji": "\ud83d\udc76\ud83e\uddb6",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Sponge Yoda",
+    "emoji": "\ud83e\uddfd",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Captain Jack Squidward",
+    "emoji": "\ud83e\udd91",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Tuxzilla",
+    "emoji": "\ud83d\udc32",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Deep Purple Nexus 6",
+    "emoji": "\ud83c\udfb5",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Chimichanga Pigfly Hound",
+    "emoji": "\ud83d\udc37",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Buddha-eating Captain Communist Sushi",
+    "emoji": "\ud83c\udf63",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Chocolate Fishstick",
+    "emoji": "\ud83d\udc1f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Dragon Fruit Snowden",
+    "emoji": "\ud83d\udc09",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Duckpiercer 5",
+    "emoji": "\ud83e\udd86",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Alice In Steampunk Land",
+    "emoji": "\ud83c\udfa9",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Camel-Were-kaaba",
+    "emoji": "\ud83d\udc2a",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Steampunk Ambrosia",
+    "emoji": "\ud83e\udd16",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Tea For The Tillerman",
+    "emoji": "\ud83c\udf75\ud83c\udfb6",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Dusty Porkasusberry",
+    "emoji": "\ud83e\udd14",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Slushie Putin",
+    "emoji": "\ud83e\udd64",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Pension Pine",
+    "emoji": "\ud83c\udf32",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Chicken Tiki",
+    "emoji": "\ud83c\udf57",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Muddy Frankenpig",
+    "emoji": "\ud83d\udc37",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Cyber Gobble Pork Mafia",
+    "emoji": "\ud83e\udd16\ud83e\udd83\ud83d\udc37",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Cryptocent",
+    "emoji": "\ud83d\udcb0",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Black Sabbath",
+    "emoji": "\ud83e\udd18",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Poison Frog",
+    "emoji": "\ud83d\udc38",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Pink Chopthulhu",
+    "emoji": "\ud83d\udc19",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Captain Murderfish",
+    "emoji": "\ud83d\udc1f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Crypto Bear",
+    "emoji": "\ud83d\udc3b",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Croco Cobraka",
+    "emoji": "\ud83d\udc0a\ud83d\udc0d",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Cheeseburger In Paradise",
+    "emoji": "\ud83c\udf54",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Ducknado 2016",
+    "emoji": "\ud83e\udd86\ud83c\udf2a",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Pink Robo-mona",
+    "emoji": "\ud83e\udd16",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Sand Painter",
+    "emoji": "\ud83c\udfa8",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Steampunk Candy Corn Rider",
+    "emoji": "\ud83c\udfa9\ud83c\udf6c\ud83c\udf3d",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Adobe Rose",
+    "emoji": "\ud83c\udf39",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Arkham Knight",
+    "emoji": "\ud83c\udfae",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Chromania",
+    "emoji": "\ud83c\udfb6",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Sand Manga",
+    "emoji": "\ud83c\udfdc\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Cryptopunky Duckthulhu",
+    "emoji": "\ud83e\udd86",
+    "is_first_discovery": true
+  },
+  {
+    "name": "The Greatest Jury Duty Pyramid Scheme",
+    "emoji": "\ud83e\udd14",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Eternal Porkcake",
+    "emoji": "\ud83d\udc37\ud83c\udf70",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Trump Lilly",
+    "emoji": "\ud83c\udf38",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Milk Tut",
+    "emoji": "\ud83e\udd5b\ud83d\udc51",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Crypto Baconpunk Gogana",
+    "emoji": "\ud83e\udd53",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Captain Pink Mummy",
+    "emoji": "\ud83e\uddb8\u200d\u2640\ufe0f\ud83c\udf80",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Google Squidnado",
+    "emoji": "\ud83e\udd91\ud83c\udf2a\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Luffy Surfing on a Giant Smoking Adobe Kongthulhu",
+    "emoji": "\ud83c\udfc4\u200d\u2642\ufe0f",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Chia Kangaroo",
+    "emoji": "\ud83e\udd98",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Tiki Dannopunk",
+    "emoji": "\ud83c\udf79",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Rainbow Flytrap",
+    "emoji": "\ud83c\udf08",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Crypto Nymphasaurus",
+    "emoji": "\ud83e\udd96",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Cupcake Wars 9",
+    "emoji": "\ud83e\uddc1",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Robo-venusaur",
+    "emoji": "\ud83e\udd16\ud83c\udf3f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Bingo Fortress 5",
+    "emoji": "\ud83c\udfae",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Around the World in 80 Days",
+    "emoji": "\ud83c\udf0d\ud83d\ude82\ud83d\uddfa\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Steam Power",
+    "emoji": "\ud83d\udca8",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Harry Potter And The Sorcerer\u2019s Stone",
+    "emoji": "\ud83e\uddd9\u200d\u2642\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Robo-robin-lisa",
+    "emoji": "\ud83e\udd16\ud83d\udc26\ud83d\udc69",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Dannorose",
+    "emoji": "\ud83c\udf39",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Clockwork Pigasusaur",
+    "emoji": "\ud83d\udd70\ufe0f\ud83d\udc37\ud83e\udd84",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Stinky Reaper",
+    "emoji": "\ud83d\udc7b",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Foggy Bog",
+    "emoji": "\ud83c\udf2b\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Dalai Tardis",
+    "emoji": "\ud83e\udd14",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Pink Gogolympus",
+    "emoji": "\ud83d\udc5b",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Pizza Surgeon",
+    "emoji": "\ud83c\udf55\ud83d\udc68\u200d",
+    "is_first_discovery": false
+  },
+  {
+    "name": "CryptoFrenchToastTrump",
+    "emoji": "\ud83e\udd37\u200d\u2642\ufe0f",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Frostpunky",
+    "emoji": "\u2744\ufe0f\ud83e\udd18",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Casper The Friendly Tanktopus",
+    "emoji": "\ud83d\udc7b\ud83e\udd91",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Snow Crow Sushi",
+    "emoji": "\ud83c\udf63",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Chocolate Finn",
+    "emoji": "\ud83c\udf6b\ud83d\udc66",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Captain Hackzilla",
+    "emoji": "\ud83e\udd96",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Obamaspy",
+    "emoji": "\ud83d\udc38",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Casper The Friendly Zombie Cryptosaurus Rex",
+    "emoji": "\ud83d\udc7b\ud83e\udddf\u200d\u2642",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Hodlfinn",
+    "emoji": "\ud83d\udc1f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Carrot Trump",
+    "emoji": "\ud83e\udd55",
+    "is_first_discovery": false
+  },
+  {
+    "name": "The Muppet Show",
+    "emoji": "\ud83d\udc38",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Chess8",
+    "emoji": "\u265f\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Pigthulhu",
+    "emoji": "\ud83d\udc37",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Butterscotch Autopsy",
+    "emoji": "\ud83e\udd14",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Crypto Clockwork Salamander",
+    "emoji": "\u23f0\ud83e\udd8e",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Bruce Punk",
+    "emoji": "\ud83c\udfb8",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Sushi Boruto",
+    "emoji": "\ud83c\udf63\ud83d\udc66",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Jack And The Tea Stalk",
+    "emoji": "\ud83c\udf31",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Clockwork Tiger",
+    "emoji": "\ud83d\udc05\u23f0",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Poisonous Ice Cream Buddha",
+    "emoji": "\ud83c\udf66\ud83d\ude4f\ud83c\udffc",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Duck Tales Pizza Party",
+    "emoji": "\ud83e\udd86\ud83c\udf55\ud83c\udf89",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Chroma Sundae",
+    "emoji": "\ud83c\udf68",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Crypto Crackpot",
+    "emoji": "\ud83e\udd2a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Pink Teapot Dome",
+    "emoji": "\ud83c\udf75",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Meatloaf Dragon",
+    "emoji": "\ud83c\udf56\ud83d\udc09",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Steampunk Robo-unicorn Kongthulhu",
+    "emoji": "\ud83e\udd16\ud83e\udd84\ud83e\udd8d",
+    "is_first_discovery": true
+  },
+  {
+    "name": "The Pink Bear Sushi",
+    "emoji": "\ud83c\udf63",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Snow Googler",
+    "emoji": "\u2744\ufe0f\ud83d\udd0d",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Pimp Banksy",
+    "emoji": "\ud83c\udfa8",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Pigcat",
+    "emoji": "\ud83d\udc37",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Camel Zombie",
+    "emoji": "\ud83d\udc2b",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Crypto Curry",
+    "emoji": "\ud83c\udf5b\ud83d\udcb0",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Eternal Leopard Da Vinci",
+    "emoji": "\ud83d\udc06\ud83c\udfa8",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Steampunk Tiger-bot",
+    "emoji": "\ud83d\udc2f\ud83e\udd16",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Amber Cobra",
+    "emoji": "\ud83d\udc0d",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Chocolate Frost Giant",
+    "emoji": "\ud83c\udf6b\u2744\ufe0f\ud83d\uddff",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Chocolate Jones",
+    "emoji": "\ud83c\udf6b",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Boggle Nautilus",
+    "emoji": "\ud83c\udfb2",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Cookie Tiger",
+    "emoji": "\ud83c\udf6a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Robo-nessie",
+    "emoji": "\ud83e\udd16",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Dada",
+    "emoji": "\ud83d\udca9",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Crab Pickle",
+    "emoji": "\ud83e\udd80",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Don Falls",
+    "emoji": "\ud83c\udf0a\ud83c\udfde\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Steampunk Cobra Triangle",
+    "emoji": "\ud83d\udc0d\ud83d\udea4",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Steampunk Gooliganadonald",
+    "emoji": "\ud83e\udd16",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Google Sweet Hydra",
+    "emoji": "\ud83d\udd0d\ud83c\udf6c\ud83d\udc0d",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Pink Kongthulhu",
+    "emoji": "\ud83d\udc32",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Pink Flying Frosthorn",
+    "emoji": "\u2744\ufe0f",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Steampunk Druidagram",
+    "emoji": "\ud83e\udd16",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Shattered Brony",
+    "emoji": "\ud83d\udc94",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Crypto Zompire",
+    "emoji": "\ud83e\udddb\u200d\u2642\ufe0f\ud83d\udcb0",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Cyber Mammoth Chai",
+    "emoji": "\u2615",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Rose Kaiju",
+    "emoji": "\ud83c\udf39\ud83e\udd96",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Gobra Tiki",
+    "emoji": "\ud83d\udc0d\ud83d\uddff",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Cthulhuopoly Kongthulhu\u2019s Woolly Mammoth",
+    "emoji": "\ud83e\udd91",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Tallest Flowerpunk Parrot",
+    "emoji": "\ud83c\udf3a\ud83e\udd9c",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Google Snapchat",
+    "emoji": "\ud83d\udd0d",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Google Wash",
+    "emoji": "\ud83e\uddfc",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Green Eggs And Penguin",
+    "emoji": "\ud83c\udf73\ud83d\udc27",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Grand Theft Auto",
+    "emoji": "\ud83d\ude97",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Chia-frosticornzilla",
+    "emoji": "\ud83e\udd95",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Croco Trumpchop",
+    "emoji": "\ud83d\udc0a",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Avatar: The Last Airbender",
+    "emoji": "\ud83d\udca7",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Mummymon",
+    "emoji": "\ud83d\udc79",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Croco Leviathan",
+    "emoji": "\ud83d\udc0a\ud83d\udc09",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Gordan Morse",
+    "emoji": "\ud83e\udd14",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Thunder Prince",
+    "emoji": "\ud83c\udf29\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Swampcake",
+    "emoji": "\ud83c\udf70",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Super Mario Bros. 4",
+    "emoji": "\ud83c\udf44",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Crypto Siren",
+    "emoji": "\ud83d\udea8",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Clockwork Trumpetman",
+    "emoji": "\ud83c\udfba",
+    "is_first_discovery": true
+  },
+  {
+    "name": "The End Of The Muddy Minotaur",
+    "emoji": "\ud83d\udcda",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Genie-eating Saki",
+    "emoji": "\ud83e\uddde\u200d\u2642\ufe0f",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Cyber Gargoyle Zombie",
+    "emoji": "\ud83e\udd16\ud83e\udd87\ud83e\udddf",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Pink Excalibur",
+    "emoji": "\ud83d\udde1\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Michael Jordan vs. Robo-devil Sumo",
+    "emoji": "\ud83e\udd16",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Gogod",
+    "emoji": "\ud83d\udc10",
+    "is_first_discovery": false
+  },
+  {
+    "name": "The Crypto Parrot Heads",
+    "emoji": "\ud83e\udd9c",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Crypto Artasaurus",
+    "emoji": "\ud83e\udd96\ud83d\udcb0\ud83c\udfa8",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Pink Fishing Rod",
+    "emoji": "\ud83c\udfa3",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Pink Sponge Kappa",
+    "emoji": "\ud83e\uddfd",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Dixie Glass",
+    "emoji": "\ud83e\udd43",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Pickle Wipeout",
+    "emoji": "\ud83e\udd52\ud83d\udca6",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Snotty Hydroxide Curry",
+    "emoji": "\ud83e\udd22",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Steampunk Gator Wukong",
+    "emoji": "\ud83d\udc0a\ud83e\udd16",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Saddam",
+    "emoji": "\ud83d\udca3",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Pork Sword",
+    "emoji": "\ud83c\udf46",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Goganapotatochipcone Sushi Carriage",
+    "emoji": "\ud83c\udf63\ud83d\ude97",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Steampunk Chocolate Sharknado",
+    "emoji": "\ud83c\udf6b\ud83e\udd88\ud83c\udf2a\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Dixie Achilles",
+    "emoji": "\ud83e\udd20",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Clockwork Cobra Shark",
+    "emoji": "\ud83d\udd70\ufe0f\ud83d\udc0d\ud83e\udd88",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Tiki Stardust",
+    "emoji": "\ud83c\udf79\ud83c\udf34\u2728",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Escape From North Korea",
+    "emoji": "\ud83c\uddf0\ud83c\uddf5\u27a1\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Poet Vape Elf",
+    "emoji": "\ud83e\udddd\u200d\u2642\ufe0f",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Pizza-godzilla",
+    "emoji": "\ud83c\udf55\ud83e\udd96",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Sewing Sharktopus",
+    "emoji": "\ud83e\udd88\ud83d\udc19\ud83e\udea1",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Cardboard Little Red Riding Hood",
+    "emoji": "\ud83d\udce6\ud83d\udc67\ud83c\udffb",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Casper The Friendly Tiger",
+    "emoji": "\ud83d\udc2f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Dusty Pink",
+    "emoji": "\ud83c\udf38",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Floyd Mayweather",
+    "emoji": "\ud83e\udd4a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "DogeCoin",
+    "emoji": "\ud83d\udc15",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Flying Sandbee Titan Art Car",
+    "emoji": "\ud83d\ude97",
+    "is_first_discovery": true
+  },
+  {
+    "name": "The Great Wall Of Seahorses",
+    "emoji": "\ud83d\udc1a",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Boba Fett Joker",
+    "emoji": "\ud83c\udccf",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Boba Fett Cake",
+    "emoji": "\ud83c\udf70\ud83d\udd2b",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Surfing Blackbeard",
+    "emoji": "\ud83c\udfc4\u200d\u2642\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Crimewave",
+    "emoji": "\ud83d\udd2a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Muddy Swan and the Smashing Porky Dragons",
+    "emoji": "\ud83e\udda2\ud83d\udc37\ud83d\udc09",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Flying Greenland",
+    "emoji": "\ud83d\udee9\ufe0f\ud83c\uddec\ud83c\uddf1",
+    "is_first_discovery": false
+  },
+  {
+    "name": "K-pop",
+    "emoji": "\ud83c\udfa4",
+    "is_first_discovery": false
+  },
+  {
+    "name": "The Fear Of Shamrock Rex",
+    "emoji": "\ud83e\udd96",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Hydrogen Bomb",
+    "emoji": "\ud83d\udca3",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Dilophosaurus Trump",
+    "emoji": "\ud83e\udd96",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Clockwork Duckrabbit",
+    "emoji": "\ud83e\udd86\ud83d\udd70\ufe0f",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Pink Hippogriffmon",
+    "emoji": "\ud83e\udd84",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Cryptofrost Sundae",
+    "emoji": "\ud83c\udf68",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Fake Snow",
+    "emoji": "\u2744\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "The Mad Sponge",
+    "emoji": "\ud83e\uddfd",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Notchbusters",
+    "emoji": "\ud83d\udc7b",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Chromeball",
+    "emoji": "\ud83d\udd35",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Graceland Squarepants",
+    "emoji": "\ud83c\udfe0\ud83e\uddfd",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Ecto-Mindy",
+    "emoji": "\ud83d\udc7b",
+    "is_first_discovery": true
+  },
+  {
+    "name": "K-Ming",
+    "emoji": "\ud83d\udcda",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Ceramic Phoenix",
+    "emoji": "\ud83d\udc24",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Gobble Vase",
+    "emoji": "\ud83e\udd83\ud83c\udffa",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Pink Corvus",
+    "emoji": "\ud83e\udda9",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Crypto Minnie Zombie",
+    "emoji": "\ud83e\udddf\u200d\u2642\ufe0f",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Amber River",
+    "emoji": "\ud83c\udfde\ufe0f\ud83c\udf42",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Smart Steam Castle",
+    "emoji": "\ud83c\udff0",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Steam Pancake",
+    "emoji": "\ud83e\udd5e",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Chili Con Carne",
+    "emoji": "\ud83c\udf36\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Chicken Rice Surfer Kongthulhu",
+    "emoji": "\ud83c\udf57\ud83c\udf5a\ud83c\udfc4",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Magic Wand",
+    "emoji": "\ud83e\ude84",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Casper Baby Surfing",
+    "emoji": "\ud83c\udfc4\u200d\u2642\ufe0f",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Crypto Kool-aid Man",
+    "emoji": "\ud83c\udf79\ud83d\udcb0\ud83d\udc68\u200d",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Robocloud Prime",
+    "emoji": "\ud83e\udd16",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Crypto Duckabeezusaurus",
+    "emoji": "\ud83e\udd86",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Camel Gundam",
+    "emoji": "\ud83d\udc2a\ud83e\udd16",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Cryptominez",
+    "emoji": "\u26cf\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Bill Nye The Science Pig",
+    "emoji": "\ud83d\udc37\ud83d\udd2c",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Sailor Pink Cathedralpunk Joker",
+    "emoji": "\u2693\ud83c\udf80\ud83d\udd4d",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Cryptic Poseidon",
+    "emoji": "\ud83c\udf0a\ud83d\udc51\ud83d\udc1f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Turtle Swan",
+    "emoji": "\ud83d\udc22\ud83e\udda2",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Tiffanywhal",
+    "emoji": "\ud83d\udc33",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Iron Booger",
+    "emoji": "\ud83e\udd22",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Christ The Kong",
+    "emoji": "\ud83e\udd8d",
+    "is_first_discovery": false
+  },
+  {
+    "name": "The Snoogle Trump",
+    "emoji": "\ud83e\udd14",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Morse Messi",
+    "emoji": "\u26bd",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Crabhouse Kongthulhu",
+    "emoji": "\ud83e\udd80",
+    "is_first_discovery": true
+  },
+  {
+    "name": "The Mashed Hatter Project",
+    "emoji": "\ud83c\udfa9",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Hobo Fortress",
+    "emoji": "\ud83c\udfda\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Muddy Snow Kakashi",
+    "emoji": "\ud83e\udd14",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Flash Tea",
+    "emoji": "\ud83c\udf75",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Steam Buddha Kongthulhu",
+    "emoji": "\ud83e\udd16",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Surfing Boromir",
+    "emoji": "\ud83c\udfc4\u200d\u2642\ufe0f",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Baconbeast Giraffe",
+    "emoji": "\ud83e\udd53\ud83e\udd92",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Snotty Irish Karate",
+    "emoji": "\ud83e\udd4b",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Pandamule 10 Pro",
+    "emoji": "\ud83d\udc3c",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Nuclear Steampunk Robofrank",
+    "emoji": "\ud83e\udd16",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Space Zombie",
+    "emoji": "\ud83d\udc7d",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Angel Yeti",
+    "emoji": "\ud83d\udc7c",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Alice Wipeout",
+    "emoji": "\ud83c\udfc4\u200d\u2640\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Al Gore-Tex",
+    "emoji": "\ud83e\udd23",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Googlecolyte Sandwich De Milo Duckmore",
+    "emoji": "\ud83e\udd6a",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Pandelion the Dragon of 10,000 Light Years",
+    "emoji": "\ud83d\udc09",
+    "is_first_discovery": true
+  },
+  {
+    "name": "The Art Of The Breakfastinator",
+    "emoji": "\ud83c\udf73",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Giraffepunk Seadragon",
+    "emoji": "\ud83e\udd92\ud83e\udd18\ud83d\udc09",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Cryptopoetry Tea",
+    "emoji": "\ud83c\udf75",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Pineapple S'mores Leviathan",
+    "emoji": "\ud83c\udf4d\ud83c\udf6b\ud83d\udc09",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Googlemeg",
+    "emoji": "\ud83d\udd0d",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Cheesewolf Porky",
+    "emoji": "\ud83e\uddc0\ud83d\udc3a\ud83d\udc37",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Widower",
+    "emoji": "\ud83d\udc94",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Porky Morse",
+    "emoji": "\ud83d\udc37",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Foggy Pegasus",
+    "emoji": "\ud83c\udf2b\ufe0f\ud83e\udd84",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Centaurus Trap",
+    "emoji": "\ud83c\udfb6",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Cryptozoro Goposeidon",
+    "emoji": "\ud83d\udd31",
+    "is_first_discovery": true
+  },
+  {
+    "name": "The Mammoth Trump",
+    "emoji": "\ud83d\udc18",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Spongechimera Tea",
+    "emoji": "\ud83c\udf75",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Ghostzilla",
+    "emoji": "\ud83d\udc7b",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Fire Temple",
+    "emoji": "\ud83c\udfef",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Ice Cream Tweet",
+    "emoji": "\ud83c\udf66\ud83d\udc26",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Baa-ron",
+    "emoji": "\ud83d\udc0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Golf Course",
+    "emoji": "\u26f3\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Flying Pandelion",
+    "emoji": "\ud83d\udc3c\ud83e\udd81",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Crypto Boro",
+    "emoji": "\ud83d\udcb0",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Chia-Venus",
+    "emoji": "\ud83c\udf31\ud83e\ude90",
+    "is_first_discovery": false
+  },
+  {
+    "name": "The Ironborn Of Oedipus",
+    "emoji": "\ud83e\udd34",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Gop Naga",
+    "emoji": "\ud83d\udc0d",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Crypto Hades Waterfall",
+    "emoji": "\ud83d\udca7",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Pink Porky Poseidon",
+    "emoji": "\ud83d\udc37\ud83c\udf0a\ud83e\udddc",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Tornado Eruption",
+    "emoji": "\ud83c\udf2a\ufe0f\ud83c\udf0b",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Sandtrump",
+    "emoji": "\ud83c\udf35",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Elmer Fuddmore",
+    "emoji": "\ud83d\udc30",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Green Wedding",
+    "emoji": "\ud83d\udc9a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Google Granger Cuttlefish",
+    "emoji": "\ud83d\udc19",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Rappo Dustox",
+    "emoji": "\ud83e\udd8b",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Baconicorn",
+    "emoji": "\ud83d\udc37",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Hot Irish Coffee",
+    "emoji": "\u2615\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Gryfencake",
+    "emoji": "\ud83c\udf70",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Crypto-prince",
+    "emoji": "\ud83d\udcb0\ud83d\udc51",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Robo-Oil Baron",
+    "emoji": "\ud83e\udd16\ud83d\udcbc",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Pork Chop Treehouse",
+    "emoji": "\ud83d\udc37\ud83c\udf56\ud83c\udfe0",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Edward Tentacle",
+    "emoji": "\ud83d\udc19",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Trump Golem",
+    "emoji": "\ud83e\udd16",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Chocolate Cryptic",
+    "emoji": "\ud83c\udf6b\ud83d\udd0d",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Mer-duck De Sausage",
+    "emoji": "\ud83e\udd86",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Green Fog",
+    "emoji": "\ud83c\udf2b\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Coco Trumpadon",
+    "emoji": "\ud83e\udd96",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Iron Clown",
+    "emoji": "\ud83e\udd18",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Stoned Unicorn",
+    "emoji": "\ud83e\udd84",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Pink Flashworm",
+    "emoji": "\ud83d\udc1b",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Rainbow Rider",
+    "emoji": "\ud83c\udf08",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Pancake Whale",
+    "emoji": "\ud83e\udd5e\ud83d\udc0b",
+    "is_first_discovery": false
+  },
+  {
+    "name": "MKPBS",
+    "emoji": "\u274c",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Saddam Hussein and the Pink Flamingo Titan",
+    "emoji": "\ud83e\udda9",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Chessnet Sandcat",
+    "emoji": "\u265f\ufe0f",
+    "is_first_discovery": true
+  },
+  {
+    "name": "The Desolation Of Baconpunk",
+    "emoji": "\ud83e\udd53\ud83e\udd16",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Mars Polar Express Hydra",
+    "emoji": "\ud83d\ude80",
+    "is_first_discovery": true
+  },
+  {
+    "name": "The Ugly Leprechaun",
+    "emoji": "\ud83c\udf40\ud83e\udddd\u200d\u2642",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Pizzashark",
+    "emoji": "\ud83c\udf55\ud83e\udd88",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Crypto Toaster",
+    "emoji": "\ud83c\udf5e\ud83d\udcb0",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Binkyball",
+    "emoji": "\ud83d\udc30",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Crypto Gopnikimus",
+    "emoji": "\ud83e\udd16",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Crab Potato",
+    "emoji": "\ud83e\udd80",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Spider-gollum",
+    "emoji": "\ud83d\udd77\ufe0f\ud83e\udddd\u200d",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Duck Gundam 3",
+    "emoji": "\ud83e\udd86\ud83e\udd16",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Chia-pork-kitty-pizza-squid-fudd-",
+    "emoji": "\ud83c\udf55",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Professor C.S. Lewis",
+    "emoji": "\ud83d\udcda\ud83e\udd81",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Flying Pooh",
+    "emoji": "\ud83d\udca9",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Were-chimp",
+    "emoji": "\ud83d\udc35",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Frosty Present",
+    "emoji": "\u2744\ufe0f\ud83c\udf81",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Sailor Steam Excalibur",
+    "emoji": "\u2694\ufe0f",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Kangaroo Rex",
+    "emoji": "\ud83e\udd98\ud83e\udd96",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Clay Polly",
+    "emoji": "\ud83e\uddf1\ud83e\udd9c",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Cobra Prince Charming",
+    "emoji": "\ud83d\udc0d\ud83d\udc51",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Jack And The Beanstalk",
+    "emoji": "\ud83c\udf31",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Duck Sandwich",
+    "emoji": "\ud83e\udd86\ud83e\udd6a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Duck Army",
+    "emoji": "\ud83e\udd86",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Dr. Vanilla Ice Legolasnado",
+    "emoji": "\ud83e\udd14",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Robo-sandwich",
+    "emoji": "\ud83e\udd16\ud83e\udd6a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "The Great Wall Of Hare",
+    "emoji": "\ud83d\udc07",
+    "is_first_discovery": false
+  },
+  {
+    "name": "The Pink Knight",
+    "emoji": "\ud83c\udf80\ud83d\udc51",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Pumpkin Spice Drunken Poe-cation",
+    "emoji": "\ud83c\udf83\ud83c\udf79\ud83d\udcda",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Google Rings",
+    "emoji": "\ud83d\udc8d",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Steampunk Wicked Witch",
+    "emoji": "\ud83e\uddd9\u200d\u2640\ufe0f\u2699",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Snow Luau",
+    "emoji": "\ud83c\udf34",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Robo-poppy",
+    "emoji": "\ud83e\udd16\ud83c\udf3a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Barr Sand",
+    "emoji": "\ud83c\udfd6\ufe0f",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Ice Cream Turtle",
+    "emoji": "\ud83c\udf66\ud83d\udc22",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Chromium Fanlily",
+    "emoji": "\ud83e\udd97",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Buzz Lightyear Of Star Command And Crypto Valentine",
+    "emoji": "\ud83d\ude80",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Pinky Poseidon",
+    "emoji": "\ud83e\udddc\u200d\u2642\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Cookie Triton",
+    "emoji": "\ud83c\udf6a\ud83c\udf0a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Pork Mothra",
+    "emoji": "\ud83d\udc37\ud83e\udd8b",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Cryptofoggernancytopus",
+    "emoji": "\ud83d\udc19",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Roboking Rex Tillerson",
+    "emoji": "\ud83e\udd16",
+    "is_first_discovery": true
+  },
+  {
+    "name": "The Dustfish Code",
+    "emoji": "\ud83d\udc1f",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Black Emperor's New Clam",
+    "emoji": "\ud83e\uddaa",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Boom Boom",
+    "emoji": "\ud83d\udca5",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Cheese Monster",
+    "emoji": "\ud83e\uddc0",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Bingasm Tea",
+    "emoji": "\u2615",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Cheese Sandboarder",
+    "emoji": "\ud83e\uddc0\ud83c\udfc4\u200d\u2642",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Steam Wizard",
+    "emoji": "\ud83e\uddd9\u200d\u2642\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Muddy Piggle Wigglebot",
+    "emoji": "\ud83d\udc37",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Bacon Gundam",
+    "emoji": "\ud83d\udc37",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Crypto Punkin Dragon",
+    "emoji": "\ud83c\udf83",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Crypto Android",
+    "emoji": "\ud83e\udd16\ud83d\udcb0",
+    "is_first_discovery": false
+  },
+  {
+    "name": "The Sistine Rattlesnake",
+    "emoji": "\ud83d\udc0d",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Crab Tornado",
+    "emoji": "\ud83e\udd80\ud83c\udf2a\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Chess9",
+    "emoji": "\u265f\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "A New Era",
+    "emoji": "\ud83d\ude80",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Pinky Iceberg",
+    "emoji": "\u2744\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Third Eye",
+    "emoji": "\ud83d\udc41\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Chia Rose Goblin Slayer",
+    "emoji": "\ud83c\udf31\ud83c\udf39\ud83d\udc79",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Crypto Garfield",
+    "emoji": "\ud83d\udc31\ud83d\udcb0",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Pork Banana Kimchi",
+    "emoji": "\ud83c\udf4c",
+    "is_first_discovery": true
+  },
+  {
+    "name": "The Emperor's New Tank",
+    "emoji": "\ud83d\udc51\ud83c\udfa9",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Crypto Shetland",
+    "emoji": "\ud83e\udd14",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Fate/Zero",
+    "emoji": "\ud83c\udf0c",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Astrocake",
+    "emoji": "\ud83c\udf70",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Wake and Bake",
+    "emoji": "\ud83c\udf3f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Darth Pinky",
+    "emoji": "\ud83d\udc7d",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Pink Cloud",
+    "emoji": "\ud83c\udf24\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Captain Cryptopork Kong",
+    "emoji": "\ud83e\udd8d",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Were-cider Smoke",
+    "emoji": "\ud83c\udf7a\ud83d\udd25",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Ambulance",
+    "emoji": "\ud83d\ude91",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Pink Wash Zombiehydra",
+    "emoji": "\ud83e\udddf\u200d\u2640\ufe0f\ud83e\uddb4",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Sandwich Dragon",
+    "emoji": "\ud83d\udc09",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Bacon Sharktopus",
+    "emoji": "\ud83e\udd53\ud83e\udd88\ud83d\udc19",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Solar Powered Ugly Steam Cryptodragon",
+    "emoji": "\ud83c\udf1e\ud83d\udc09",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Chocolate Crabtopus",
+    "emoji": "\ud83c\udf6b\ud83e\udd80\ud83d\udc19",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Ice Cream Kangaroo",
+    "emoji": "\ud83c\udf66\ud83e\udd98",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Adventure Time Bowling",
+    "emoji": "\ud83c\udfb3",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Kim Possible",
+    "emoji": "\ud83d\udca5",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Fire Buddha",
+    "emoji": "\ud83d\udd25",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Frost Whale Sundae",
+    "emoji": "\ud83c\udf68",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Caramel Mona Lisa",
+    "emoji": "\ud83c\udf6c\ud83c\udfa8",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Google Swampfire Taco",
+    "emoji": "\ud83c\udf2e",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Snotty Snowmaze",
+    "emoji": "\ud83e\udd27\u2744\ufe0f",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Dragon Shepherd",
+    "emoji": "\ud83d\udc09",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Chili Bean",
+    "emoji": "\ud83c\udf36\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Trojan Excalibur",
+    "emoji": "\ud83d\udc34\u2694\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "80 Cactus Freeze Tea",
+    "emoji": "\ud83c\udf35\u2744\ufe0f\ud83c\udf75",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Steampunk Cryptogortex",
+    "emoji": "\ud83e\udd16",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Crypto Bogie Breakfast",
+    "emoji": "\ud83c\udf73",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Chroma Dusty Pizza Gundamthulhu",
+    "emoji": "\ud83c\udf55\ud83e\udd16\ud83e\udd91",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Google Sailor",
+    "emoji": "\u26f5",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Dragon Fruit Punch",
+    "emoji": "\ud83d\udc09\ud83c\udf49\ud83e\udd4a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Surfing Bear",
+    "emoji": "\ud83c\udfc4\u200d\u2642\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Frost Kongthulhu",
+    "emoji": "\u2744\ufe0f\ud83e\udd8d\ud83d\udc19",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Cryptoduck King",
+    "emoji": "\ud83e\udd86\ud83d\udc51",
+    "is_first_discovery": true
+  },
+  {
+    "name": "The Muppet Moviee",
+    "emoji": "\ud83c\udfa5",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Black Prince",
+    "emoji": "\ud83d\udc51",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Hodlharp",
+    "emoji": "\ud83c\udfbb",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Google Turtle Steampunk Robofrank",
+    "emoji": "\ud83d\udc22\ud83e\udd16",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Crypto Trump-hydra",
+    "emoji": "\ud83d\udc0d",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Woolly Pot",
+    "emoji": "\ud83d\udc11\ud83c\udf72",
+    "is_first_discovery": false
+  },
+  {
+    "name": "The Rapture",
+    "emoji": "\ud83c\udf0c",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Muddy Tea For Three",
+    "emoji": "\ud83c\udf75",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Cloudy Wall-e",
+    "emoji": "\ud83e\udd16",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Foggy Forest",
+    "emoji": "\ud83c\udf32",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Trump-kaaba",
+    "emoji": "\ud83e\udd14",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Chia-frost Trumpogriff",
+    "emoji": "\ud83e\udd14",
+    "is_first_discovery": true
+  },
+  {
+    "name": "The King Of Hearts",
+    "emoji": "\ud83d\udc51",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Ashley Grim Reaper",
+    "emoji": "\ud83d\udc80",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Porky Kongthulhu",
+    "emoji": "\ud83d\udc37\ud83e\udd91",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Piggy Piggy Piggy",
+    "emoji": "\ud83d\udc37\ud83d\udc37\ud83d\udc37",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Pink Freedom Fighter",
+    "emoji": "\ud83d\udc97\ud83e\uddb8\u200d\u2640\ufe0f",
+    "is_first_discovery": true
+  },
+  {
+    "name": "The Dark Side Of The Olive Flytrap",
+    "emoji": "\ud83e\udeb0",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Fake Koi",
+    "emoji": "\ud83d\udc20",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Hobo Boggleduck",
+    "emoji": "\ud83e\udd86",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Surf Goggles",
+    "emoji": "\ud83c\udfc4\u200d\u2642\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Green Tea Hula-hoop Dance",
+    "emoji": "\ud83d\udc83\ud83c\udf75",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Red Steam Sandcrawler",
+    "emoji": "\ud83d\udd34\ud83d\ude82\ud83c\udfdc\ufe0f",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Crabs in a Blender",
+    "emoji": "\ud83e\udd80\ud83c\udf00",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Casper The Friendly Cobra",
+    "emoji": "\ud83d\udc0d",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Gmail Dragon",
+    "emoji": "\ud83d\udc32",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Steam-powered Black Widow",
+    "emoji": "\ud83d\udd77\ufe0f\ud83d\udd25",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Cryptobulb Trumpkins",
+    "emoji": "\ud83e\udd14",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Vampire Cherry Blossom",
+    "emoji": "\ud83e\udddb\u200d\u2640\ufe0f\ud83c\udf38",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Sandblaster",
+    "emoji": "\ud83c\udf2a\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Chromium Dome",
+    "emoji": "\ud83c\udfd9\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Coco Steve",
+    "emoji": "\ud83e\udd65",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Goblin Fruit Punch",
+    "emoji": "\ud83e\udddd\u200d\u2642\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Gophergum Hoffman Drowning",
+    "emoji": "\ud83d\ude2c",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Frosty Windows",
+    "emoji": "\ud83e\udd76",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Bronx Page",
+    "emoji": "\ud83c\udfd9\ufe0f",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Empire State Of Blade",
+    "emoji": "\ud83d\udde1\ufe0f\ud83d\uddfd",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Bread Swan News",
+    "emoji": "\ud83c\udf5e\ud83e\udda2\ud83d\udcf0",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Crab Shark",
+    "emoji": "\ud83e\udd80",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Crypto Jones",
+    "emoji": "\ud83e\udd16",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Alphakingo",
+    "emoji": "\ud83c\udfb2",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Crypto Owlent Tartar Dragon",
+    "emoji": "\ud83e\udd89\ud83d\udc09",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Ashley\u2019s Tea",
+    "emoji": "\u2615",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Momcoin",
+    "emoji": "\ud83d\udcb8",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Dusty Lion",
+    "emoji": "\ud83e\udd81",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Duck Satoshi",
+    "emoji": "\ud83e\udd86\ud83d\udcb0",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Steampunk-raptor",
+    "emoji": "\ud83e\udd96",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Pizza Prime",
+    "emoji": "\ud83c\udf55",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Chocolate Cobra",
+    "emoji": "\ud83d\udc0d",
+    "is_first_discovery": false
+  },
+  {
+    "name": "The Smashing Pigasus",
+    "emoji": "\ud83d\udc37",
+    "is_first_discovery": true
+  },
+  {
+    "name": "David Bowlingowl",
+    "emoji": "\ud83c\udfb3",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Grog",
+    "emoji": "\ud83c\udf7a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Pink Freedom Tea",
+    "emoji": "\ud83c\udf75",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Slytherwhale",
+    "emoji": "\ud83d\udc0d\ud83d\udc0b",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Exterminate",
+    "emoji": "\ud83d\udd2a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Clockwork Finn",
+    "emoji": "\u23f0",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Frostzilla",
+    "emoji": "\ud83c\udf28\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Tiger Frost",
+    "emoji": "\ud83d\udc05\u2744\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Google Wallet Hangman",
+    "emoji": "\ud83c\udfae",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Porky Surfer Kongthulhu",
+    "emoji": "\ud83d\udc37\ud83c\udfc4\u200d\u2642",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Pork-raptor",
+    "emoji": "\ud83e\udd96",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Sleepy Lotus",
+    "emoji": "\ud83d\ude34\ud83c\udf3a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Crypto Moai Trump",
+    "emoji": "\ud83d\uddff",
+    "is_first_discovery": false
+  },
+  {
+    "name": "The Buddha-eating Giraffe And The Desolation Of Sufi",
+    "emoji": "\ud83e\udd92",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Cake Tornado",
+    "emoji": "\ud83c\udf70\ud83c\udf2a\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Fire Phone",
+    "emoji": "\ud83d\udcf1",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Babe Marley",
+    "emoji": "\ud83c\udfb6\ud83c\udf34\ud83d\udc51",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Hydroelectric Hermione",
+    "emoji": "\ud83d\udca7\u26a1",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Banana Blast",
+    "emoji": "\ud83c\udf4c",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Burrito Jedi",
+    "emoji": "\ud83c\udf2f\ud83d\udc68\u200d",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Bingcosaurus The Toast",
+    "emoji": "\ud83e\udd96\ud83c\udf5e",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Were-bender",
+    "emoji": "\ud83d\udc3a\ud83d\udd25\ud83c\udf0a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Chernoboware",
+    "emoji": "\ud83e\udd16",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Breadkangaroo",
+    "emoji": "\ud83e\udd98",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Cryptolift",
+    "emoji": "\ud83d\ude97",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Auntie Googleasaurus",
+    "emoji": "\ud83e\udd96",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Bee Clinton",
+    "emoji": "\ud83d\udc1d",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Chocolate Alice",
+    "emoji": "\ud83c\udf6b",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Aqua Sheep",
+    "emoji": "\ud83d\udc11",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Sick Bark",
+    "emoji": "\ud83e\udd12",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Space Fish",
+    "emoji": "\ud83d\udc1f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Casper The Friendly Rat King",
+    "emoji": "\ud83d\udc00",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Clockwork Stoner",
+    "emoji": "\ud83d\udd70\ufe0f\ud83c\udf3f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Cryptofrank",
+    "emoji": "\ud83d\udcc8",
+    "is_first_discovery": false
+  },
+  {
+    "name": "The Pink Rapture",
+    "emoji": "\ud83c\udf38\u2728",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Clockwork Darth Gandalf",
+    "emoji": "\u23f0\ud83e\udd16\ud83e\uddd9",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Captain Steampunk Cyclonemon",
+    "emoji": "\ud83e\udd16",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Art of War",
+    "emoji": "\ud83c\udfa8",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Pink Crypto Monster",
+    "emoji": "\ud83d\udc7e",
+    "is_first_discovery": true
+  },
+  {
+    "name": "Smoking S\u2019more",
+    "emoji": "\ud83c\udf6b",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Yoga Dragon",
+    "emoji": "\ud83d\udc09",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Steampunk Fish Fuck",
+    "emoji": "\ud83e\udd16",
+    "is_first_discovery": true
   }
 ]
