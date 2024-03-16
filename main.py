@@ -39,15 +39,17 @@ if option == "2":
   ------------------------ Starting Individual ------------------------
             """)
     asyncio.run(individual.main())
-  except asyncio.TimeoutError as ex:
-    print("There was a timeout error:" + str(ex) +
-          "This is normal. The file should run again.")
+  except asyncio.TimeoutError:
+    print("There was a timeout error. This is normal. The file should run again.")
     asyncio.run(craft.main())
   except KeyboardInterrupt:
     print("""
 
     ------------------------ Quiting ------------------------
               """)
+    exit()
+  except Exception as ex:
+    print("There was an error: " + str(ex) + " Please try to run the file again.")
     exit()
 
 if option == "3":
