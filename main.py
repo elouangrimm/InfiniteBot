@@ -38,7 +38,7 @@ if option == "2":
 
   ------------------------ Starting Individual ------------------------
             """)
-    asyncio.run(craft.main())
+    asyncio.run(individual.main())
   except asyncio.TimeoutError as ex:
     print("There was a timeout error:" + str(ex) +
           "This is normal. The file should run again.")
@@ -56,7 +56,7 @@ if option == "3":
 
   ------------------------ Starting Custom ------------------------
             """)
-    asyncio.run(craft.main())
+    asyncio.run(custom.main())
   except asyncio.TimeoutError as ex:
     print("There was a timeout error:" + str(ex) +
           "This is normal. The file should run again.")
