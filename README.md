@@ -2,10 +2,15 @@
 Multiple bots for Infinite Craft!
 
 ## Instructions
-- Run craft.py and you will get random combination into discoveries.json.
-- Run individual.py to merge a custom item will all items.
-- Run custom.py to merge two custom items.
-- Run total.py to see your total elements.
+Run the binary or [main.py](https://github.com/elouangrimm/InfiniteBot/blob/main/main.py). You will be greeted by a UI.
+
+1. Random Run (Recomended)
+2. Individual (Run the program on one element)
+3. Custom (Run one custom pair)
+
+Most users will run 1. This is the most useful file, as it will just merge two random elements together forever.
 
 ## Credit
-Carson Bates: Most Code & Ideas, Elouan Grimm: Some Code & Ideas, Neal Agarwal: Infinite Craft
+Carson Bates: Most Code & Ideas, 
+Elouan Grimm: Some Code & Ideas, 
+Neal Agarwal: [Infinite Craft](https://neal.fun/infinite-craft),sqdnoises: [infinite-craft](https://github.com/sqdnoises/infinite-craft) Python Module
