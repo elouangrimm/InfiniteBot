@@ -9,7 +9,7 @@ print(colored("""
 ------------------------ INFINITEBOT ------------------------
 Created by Carson Bates and Elouan Grimm
 
-""", "red"))
+""", "light_blue"))
 while True:
   try:
     option = input(colored("""Main Menu: 
@@ -18,7 +18,7 @@ while True:
     3: Custom (Run one custom pair)
     4: View Total Elements
 
-Option (1, 2, 3, 4, Quit): """, "white"))
+Option (1, 2, 3, 4, Quit): """, "light_grey"))
 
     if option == "1" or option == "":
       try:
@@ -36,6 +36,10 @@ Option (1, 2, 3, 4, Quit): """, "white"))
 
 ------------------------ Quiting ------------------------
                   """)
+        asyncio.run(total.main())
+        print("""
+
+  """)
         exit()
 
     if option == "2":
@@ -53,9 +57,10 @@ Option (1, 2, 3, 4, Quit): """, "white"))
 
 ------------------------ Quiting ------------------------
                   """)
-        exit()
-      except Exception as ex:
-        print("There was an error: " + str(ex) + " Please try to run the file again.")
+        asyncio.run(total.main())
+        print("""
+
+  """)
         exit()
 
     if option == "3":
@@ -74,8 +79,12 @@ Option (1, 2, 3, 4, Quit): """, "white"))
 
 ------------------------ Quiting ------------------------
                   """)
-        exit()
+        asyncio.run(total.main())
+        print("""
 
+  """)
+        exit()
+        
     if option == "4":
           print(colored("""
 
