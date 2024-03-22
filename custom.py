@@ -18,7 +18,7 @@ async def main():
         result = await game.pair(element1,
                                  element2)
         print(f"Result: {result}")
-        print(f"Total: {len(game.discoveries)}")
+        print(f"Total: {len(game.discoveries)} \n")
         file = open("discoveries.txt", "a")
         file.write(
             f"\n{result} = {inputelement1} + {inputelement2}"

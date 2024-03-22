@@ -11,9 +11,11 @@ async def main():
             j = random.randint(0, len(game.discoveries))
             if i < len(game.discoveries) - 1 and j < len(game.discoveries) - 1:
                 result = await game.pair(game.discoveries[i], game.discoveries[j])
-                print(f"{result} = {game.discoveries[i]} + {game.discoveries[j]}")
-                file = open("discoveries.txt", "a")
+                print(f"{result} = {game.discoveries[i]} + {game.discoveries[j]}. TOTAL: {str(len(game.discoveries))}")
+                file = open("recipies.txt", "a")
                 file.write(f"\n{result} = {game.discoveries[i]} + {game.discoveries[j]}")
+                file = open("discoveries.txt", "a")
+                file.write(f"\n{result}")
 
 if __name__ == "__main__":
     asyncio.run(main())
